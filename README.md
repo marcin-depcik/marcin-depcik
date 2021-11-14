@@ -1,4 +1,4 @@
-##Hi there 👋
+  Hi there 👋
 
 - 🔭 I’m working on my Junior Java Developer portfolio.
 - 🌱 I’m currently learning Java and frameworks.
