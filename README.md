@@ -1,7 +1,7 @@
   Hi there 👋
 
-- 🔭 I’m working on my Junior Java Developer portfolio.
-- 🌱 I’m currently learning Java and frameworks.
+- 🔭 I’m working on my Junior Front-end Developer portfolio.
+- 🌱 I’m currently learning JavaScript with React framework.
 - 🤔 I’m looking for help with developing my programing skills.
+- 📕 Everyday is a opportunity to learn something new.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I'm an architect.
