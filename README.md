@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 <h2 align="center">Fullstack Developer working from Poland</h2>
 
-- 🔭 I’m currently working on [RunBotics](https://github.com/runbotics)
+- 🔭 I’m currently working on [RunBotics](https://github.com/runbotics/runbotics)
 - 🌱 I’m currently learning **basics of system design**
 - 👯 I'am looking to collaborate on projects with **interesting architecture**
 - 🤝 I’m looking for help with **bugs**
